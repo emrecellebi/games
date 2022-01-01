@@ -1,0 +1,249 @@
+OWI - oldwarez inc presents:
+
+    1980's tiny warez pack
+
+42 total warez ranging from 1982 to 1989
+
+These packs were all painstakingly collected, tested and indexed by
+me, XxDeThxX for OWI.  They are all 1989 or older, and are all under
+100kb in size (compressed).  Many of them are very rare, some are
+less rare..some were borrowed from OWI, DCW and 8088State's old-
+warez collections.  In these cases a special note has been made, and
+all the original NFO files have been left intact without modification.
+
+MO'SLO.COM was included, its a utility to slow down your CPU to play
+these games.  Your best bet are to get these on a 286 or slower if 
+you have access to one, if not, there are a few things you can do to
+slow down your current computer:  run windows (of course! :), set your
+system speed to deturbo, turn off your system cache (these settings 
+can be changed in most system BIOS'..dont forget to change them back 
+when you are done playing!)  Some of these games may be slightly in-
+compatible with your keyboard for whatever reason, so some times things
+may not work right, and the most common problem is the games not exit-
+ing.  Good luck, have fun with this large collection of games.  When 
+you unzip be sure to use directory options, each game has been sorted
+in its own subdir.
+
+All files have been checked for viruses.
+
+Thanks to: wendel on IRC for half of the games below, nobody in efnet
+#oldwarez for his stockserv bot (Thats where I found Mo'Slo and Vari-
+Slow), FuNGiSiDe - i borrowed a few games from him too, Gould on IRC
+for sending me GWBASIC, and thanks again to nobody (or should i say
+DrJekyl?) for putting a lot of cool 80s warez on the stockade cd.
+
+Greets:  DPS, 8088state, #oldwarez, #1980warez, my fellow #owi'rs
+
+Directory structure/game list:
+
+10TH\
+  Name: 10th Frame Bowling
+  Description: one of the best bowling games ever!
+  Age: 1988
+  Other: Previous OWI release, NFO files from the time intact
+
+AFOX\
+  Name: Arctic Fox
+  Description: cool graphics for such an old game..
+  Age: somtime between '84 and '87
+
+ALLEY\
+  Name: IBM's Alley Cat
+  Description: fun arcade type game
+  Age: 1984
+  Other: Previous OWI release, NFO files from the time intact
+
+ASTEROID\
+  Name:  Astro-Doge
+  Description:  Asteroids clone
+  Age:  03/10/82
+  Other: Garbled display for me, you will probably need to slow it down
+
+AV\
+  Name: Arcade Volleyball
+  Description: yer guys with big heads and you bounce the ball around..
+               one of the funnest games in here..
+  Age: 1988
+  Other: Previous OWI release, NFO files from the time intact
+
+BASIC\
+  *GWBASIC.EXE: Microsoft GWBASIC
+  *PACWORM.BAS, SNAKES.BAS, WORDWARS.BAS, BRDBRAIN.BAS: GWBAIC games, run 
+   using syntax: GWBAIC.EXE GAMENAME.BAS
+  *OTHELLO.BAS: Othello game in QBASIC
+  *OTHELLO.EXE: Othello compiled by me with QB4.5 
+  *AKLABETH.EXE, AKLABETH.BAS - prequel to ultima games
+  Age: The BAS games date back to early 80s.
+  
+BERT\
+  Name:  Bert!
+  Description: Q*Bert clone
+  Age: 1983
+  Other: Seems to work fine, definatley needs slow down!
+
+BRUCELEE\
+  Name: Bruce Lee
+  Description: fun (and FUNNY) ninja game
+  Age: 1987 (?)
+
+BUGS!\
+  Name: Bugs!
+  Description: ANSI Centepied looking game
+  Age: 1983
+  Other: Definatley needs slowdown to be remotley playable
+
+CASTLE\
+  Name:  Castle Adventure
+  Description: You are trapped in a castle, find your way out
+  Age: 1985 (?)
+  Other: Taken from 8088State's collection, original NFO files left intact
+
+CENTIPED\
+  Name: IBM Centepied
+  Description: Its Centipied for the 8088!
+  Age: 1983!
+
+CHESS\
+  Name: Chess8088
+  Description: Ancient monochrome chess game
+  Age: 1984
+  Other: Be sure to turn caps lock on!
+
+DS\
+  Name: Dark Sword
+  Description: This one too didnt like my video card..i dont know
+  Age: 1988
+
+DIGGER\
+  Name: Digger
+  Age: 1984 (?)
+  Other: I think it works..can't tell, it doesnt like my video card.
+
+DEMO\
+  Name: P
+  Description: Graphics demo - written by an IBM researcher, shows off the
+               incredible graphics abilities of early computers.
+  Age: 1984 (?)
+  
+DOS1.25\
+  Name: MS-DOS version 1.25
+  Description: The OS for old games!
+  Age: ?? (VERY old!)
+  Other: I dont really know what to make of it, it looks like a disk image,
+         so its untested.  Good luck if you try it..
+
+ELITE\
+  Name:  Elite
+  Description: Shoot Em up
+  Age: 1987 (?)
+  Other: Taken from 8088State's collection, original NFO files left intact
+
+GALAXIAN\
+  Name: Galaxian
+  Description: yer the spaceship, shoot the aliens. classic.
+  Age: mid 80s (?)
+  Other: you will DEFINATLEY need to slow this down
+
+GB\
+  Name: Galactic Battle
+  Description: Kinda like Galaxian
+  Age: 1989 (?)
+  Other: Acts wierd in windows, use it in DOS
+
+LANDER\
+  Name:  Lunar Lander
+  Description: Skill game, land the pod thingy on the moon
+  Age: 1984 (?)
+  Other: Very very difficult without slowing it down
+
+MACK\
+  Name:  Hard Hat Mack
+  Description: Arcade style game by Electronic Arts
+  Age: 1984
+  Other: Taken from 8088State's collection, original NFO files left intact
+
+MARE\
+  Name: Flight Mare
+  Description: Arcade style game (actually pretty fun)
+  Age: 1984
+  Other: Needs some slowing down..works well
+
+MISSLE\
+  Name:  Anti-Ballistic-Missle
+  Description: Missle Command Clone
+  Age: 1982!
+  Other: you might wanna use both slowdown programs at the same time :)
+
+MOONBUGS\
+  Name: Moon Bugs
+  Description: another game that doesnt like my video card, dont know..
+  Age: 1983
+  Other: Previous OWI release, NFO files from the time intact
+
+ROGUE\
+  Name: Rouge
+  Description: Fun Dungeons and Dragons type game
+  Age: 1983
+
+ROUND42\
+  Name: Round 42
+  Description: Fun little game from a shareware floppy collection
+  Age: 1986
+  Other: Previous OWI release, NFO files from the time intact  
+
+SC\
+  Name: Space Commander
+  Description: Galaxian clone
+  Age: monochrome: 1983, color: 1984
+  Other: 2 exes, 2 different versions..one is mono, the other is color.
+
+SCRABBLE\
+  Name: Scrabble
+  Description: computer version of the board game
+  Age: 1988 or 89 (?)
+  Other: Previous OWI release, NFO files from the time intact  
+
+STARGATE\
+  Name:  Stargate
+  Description: Space Shoot 'Em up by Atari
+  Age:  Early 80's?
+  Other: Needs slow down, doesn't like to exit
+
+TAGTEAM\
+  Name: Tag Team Wrestling
+  Description: funny little wrtestling game by Data East
+  
+
+TP\
+  Name: Turbo Pascal 2.0
+  Description: Ancient version of borlands pascal compiler
+  Age: Mid 80s (?)
+
+TREK\
+  Name: Trek 2.5
+  Description: Some space game, didn't have patients to play it..
+  Age: 1986
+
+USMAP\
+  Name: US Map
+  Description: Educational game to learn/test the states and capitals
+  Age: 1986 (?)
+  
+UTILS\
+  Name:  Slowdown utilities
+  Description: Contains Mo'Slo and VariSlow, with documentation
+  Other: Use these to slow down the old games!
+
+WIZARD\
+  Name: Wizard's Castle
+  Description: text only dungeons and dragons type game
+  Age: Early 80s
+  Other: be sure to turn caps lock on to play!
+
+ZAXXON\
+  Name: Zaxxon
+  Description: an arcade game by Sega
+  Age: 1983
+  Other: Borrowed from DCW (distributers of classic warez)'s collection-
+         hey, I'm allowed..i used to be in DCW. :)  NFO files and such
+         left intact.
